@@ -80,5 +80,5 @@ The `amazon_fresh_main.sql` script includes:
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/amazon-fresh-analytics.git
+   git clone https://github.com/saisadhasivam/amazon-fresh-analytics.git
    cd amazon-fresh-analytics
