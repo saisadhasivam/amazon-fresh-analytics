@@ -3,6 +3,48 @@
 This project analyzes **Amazon Fresh customer and sales data** using SQL.  
 It covers **database design, data normalization, complex queries, and insights** into customer behavior, sales, and product performance.  
 
+
+## Project Introduction  
+
+### Problem Context  
+Amazon Fresh, like many e-commerce platforms, generates a **huge volume of customer and sales data** every day. This includes:  
+- Customer demographics & subscription status (Prime vs non-Prime)  
+- Product catalog with categories, subcategories, suppliers, and stock levels  
+- Orders and order details (prices, discounts, delivery fees, etc.)  
+- Customer reviews and product ratings  
+
+Despite having this rich dataset, the challenge is that **raw transactional data is scattered across multiple tables**. Without proper structuring, normalization, and advanced queries, it becomes very hard to answer critical business questions such as:  
+- Who are our top customers and what are their spending patterns?  
+- Which products and categories drive the most sales and revenue?  
+- How do Prime members differ from regular customers?  
+- Which suppliers and products need better stock management?  
+- What customer feedback trends (ratings/reviews) reveal product quality?  
+
+---
+
+### Objective of the Project  
+The goal of this project is to design and implement a **comprehensive SQL-based analytics system** for Amazon Fresh data. This includes:  
+1. **Database Design & Normalization** – structuring raw data into relational tables (3NF) for efficiency and consistency.  
+2. **Complex SQL Queries** – answering real-world business questions with joins, aggregations, subqueries, and constraints.  
+3. **Customer Insights** – identifying top customers, order behavior, and loyalty patterns.  
+4. **Product & Category Performance** – ranking products/categories by revenue, sales volume, and ratings.  
+5. **Supplier Analysis** – understanding supplier contributions and stock availability.  
+6. **Business-ready Insights** – generating KPIs and dashboards (via PPT) for decision-making.  
+
+---
+
+### Why This Matters  
+For a platform like Amazon Fresh, **data-driven decisions** directly impact profitability and customer satisfaction. By analyzing this dataset, businesses can:  
+- Improve inventory management and avoid stock-outs.  
+- Tailor promotions to high-value customers.  
+- Enhance customer experience by focusing on top-rated products.  
+- Negotiate effectively with suppliers based on performance.  
+- Increase revenue by doubling down on best-selling categories.  
+
+---
+
+In short, this project bridges the gap between **raw transactional data** and **strategic business insights**, showing how SQL alone can unlock powerful analytics. 
+
 ---
 
 ## Entity-Relationship Diagram (ERD)
