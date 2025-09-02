@@ -1,16 +1,16 @@
-# Amazon Fresh Analytics 🛒
+# Amazon Fresh Analytics 
 
 This project analyzes **Amazon Fresh customer and sales data** using SQL.  
 It covers **database design, data normalization, complex queries, and insights** into customer behavior, sales, and product performance.  
 
 ---
 
-## 📊 Entity-Relationship Diagram (ERD)
+## Entity-Relationship Diagram (ERD)
 ![ERD](amazon_fresh_erd.png)
 
 ---
 
-## 📑 Dataset Overview
+## Dataset Overview
 The project uses **6 CSV files** as input datasets:
 
 - **Customers** – customer demographics, location, Prime membership.  
@@ -22,7 +22,7 @@ The project uses **6 CSV files** as input datasets:
 
 ---
 
-## ⚙️ SQL Workflow
+## SQL Workflow
 The `amazon_fresh_main.sql` script includes:
 
 1. **Database Setup**
@@ -60,7 +60,7 @@ The `amazon_fresh_main.sql` script includes:
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 - **Top products by revenue**: Fall Snack, Close Vegetable, Study Snack.  
 - **High-value customers** spend **> ₹70K**, dominated by Michael Garcia & Kristopher Douglas.  
 - **Prime Members** are most concentrated in New David, Josephport, East Kristine.  
@@ -69,7 +69,7 @@ The `amazon_fresh_main.sql` script includes:
 
 ---
 
-## 📑 Deliverables
+## Deliverables
 - `amazon_fresh_main.sql` → End-to-end SQL code.  
 - `amazon-fresh-analytics.pdf` → Presentation with query screenshots & insights.  
 - `amazon_fresh_erd.png` → ERD for database structure.  
@@ -77,7 +77,7 @@ The `amazon_fresh_main.sql` script includes:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/amazon-fresh-analytics.git
